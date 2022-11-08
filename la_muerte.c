@@ -1,5 +1,5 @@
 /*
-** la_muerte, 2022
+** LA_MUERTE PROJECT, 2022
 ** la_muerte
 ** file description:
 ** la_muerte.c
